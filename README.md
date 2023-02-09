@@ -1,4 +1,4 @@
-## magic gif generator
+## Movie Tickets
 
 #### By _Ashe Urban,_ _Mitchell Gantz,_ & _Jackson Levine_
 
